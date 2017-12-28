@@ -1,0 +1,35 @@
+.hr0 {
+  margin-top: 5px;
+  height: 1px;
+  border: none;
+  border-top: 1px dashed #1e90ff;
+}
+
+.el-table thead tr {
+  background: rgb(4, 69, 168);
+  font-size: 14px;
+  color: #fff;
+}
+
+.el-table .info-row {
+  background: #c9e5f5;
+}
+
+.el-table .positive-row {
+  background: rgb(255, 255, 255);
+}
+
+.el-collapse-item__header {
+  background: rgb(50, 52, 54);
+  color: #fff;
+}
+
+textarea,
+.font-regular {
+  font-family: "MicroSoft Yahei", 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+
+textarea {
+  margin: 5px;
+}
