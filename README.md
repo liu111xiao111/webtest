@@ -1,5 +1,5 @@
 # 项目名称：上海交易系统测试工具平台
-# @Author: 邬耀平 (haoyaoping)
+# @Author: 刘潇(liuxiao46),邬耀平 (haoyaoping)
 # @发布地址： http://10.213.59.25:10020
 
 # Release Notes：
